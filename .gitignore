@@ -134,6 +134,8 @@ dmypy.json
 # VS Code
 .vscode/
 
+.DS_Store
+
 # Hatchling
 _version.py
 
